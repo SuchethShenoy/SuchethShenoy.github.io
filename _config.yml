@@ -25,9 +25,9 @@ author:
   avatar           : "profile.jpeg"
   name             : "Sucheth Shenoy"
   pronouns         : # example: "she/her"  
-  bio              : "M.Sc. Mechatronics \n Specialization: Intelligent Systems and Robotics \n Research Interests: Robotics and Learning-based Control"
+  bio              : "Seeking PhD opportunities in Robotics and Learning-based Control"
   location         : "Hamburg, Germany"
-  employer         : "Technical University of Hamburg (TUHH)"
+  employer         : "TUHH"
   uri              : # URL
   email            : "sucheth.shenoy@tuhh.de" 
 
@@ -119,7 +119,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -215,16 +215,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: false
+    output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: false
+    output: true
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 

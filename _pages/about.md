@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Sucheth Shenoy"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Biography
-======
 I’m Sucheth Shenoy, a graduate student in Mechatronics at the Hamburg University of Technology (TUHH), specializing in Intelligent Systems and Robotics. I am currently pursuing my Master’s thesis at EPFL, Switzerland, supported by the NCCR Automation Fellowship. My research interests lie at the intersection of robotics, reinforcement learning, and control theory, with a particular focus on bridging the gap between performance and theoretical guarantees in learning-based control, especially as applied to real-world robotic systems.
 
 My broader research experience spans three key areas:
