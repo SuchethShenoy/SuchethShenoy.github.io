@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Sucheth Shenoy"
   pronouns         : # example: "she/her"  
-  bio              : "Seeking PhD opportunities in Robotics and Learning-based Control"
+  bio              : ""Robotics × Learning × Control""
   location         : "Hamburg, Germany"
   employer         : "TUHH"
   uri              : # URL
@@ -33,13 +33,13 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/a/shenoy_s_2.html"
+  arxiv            : # "https://arxiv.org/a/shenoy_s_2.html"
   googlescholar    : "https://scholar.google.com/citations?user=4U_-sQYAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-0600-8439"
+  orcid            : # "https://orcid.org/0000-0002-0600-8439"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : "https://www.researchgate.net/profile/Sucheth-Shenoy"
+  researchgate     : # "https://www.researchgate.net/profile/Sucheth-Shenoy"
   scopus           : # URL
 
   # Repositories and software development
@@ -84,6 +84,10 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  manuscripts:
+    title: 'Manuscripts'
+  patents:
+    title: 'Patents'
 
 # Site Settings
 teaser                   : "robot_starrynight_2.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
