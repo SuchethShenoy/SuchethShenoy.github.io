@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Sucheth Shenoy"
   pronouns         : # example: "she/her"  
-  bio              : ""Robotics × Learning × Control""
+  bio              : 'Robotics × Learning × Control'
   location         : "Hamburg, Germany"
   employer         : "TUHH"
   uri              : # URL
@@ -79,9 +79,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
+    title: 'Books'  
   conferences:
     title: 'Conference Papers'
   manuscripts:
